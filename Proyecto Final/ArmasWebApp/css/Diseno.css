@@ -1,0 +1,331 @@
+body{
+	background:rgb(86, 110, 173);
+	color:#fff;
+	background-image: url('http://textures.world/wp-content/uploads/2018/10/Walnut-Wood-Seamless-Background-Texture-7.jpg');
+}
+<!--nav bar-->
+.menu{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+
+}
+.getArmaByCalibre{
+	color:black;
+}
+
+.menu li{
+	background:white;
+	display:inline-block;
+	
+}
+
+.menuCompra li{
+	background:white;
+	display:inline-block;
+	
+}
+ul{
+	padding-inline-start: 140px;
+}
+.menuCompra li a{
+	
+	padding:10px 20px;
+	display:inline-block;
+	color:black;
+	text-decoration:none;
+	font-family:"Broadway";
+	padding: 60px 120.6px
+
+}
+.menu li a{
+	
+	padding:10px 20px;
+	display:inline-block;
+	color:black;
+	text-decoration:none;
+	font-family:"Broadway";
+	padding: 10px 41.6px
+
+}
+
+.menu li a:hover{
+	
+	background:#000;
+	color:white;
+}
+.menuCompra li a:hover{
+	
+	background:#000;
+	color:white;
+}
+.titulo{
+	display:inline-block;
+	position:relative;
+	top:0px;
+	bottom:700px;
+	left:10px;
+
+
+}
+
+.titulo h1{
+
+font-family:"Broadway";
+font-size:60px;
+
+}
+
+.logo{
+	display:inline-block;
+}
+
+.foot{
+	
+	position:relative;
+	top:150px;
+	bottom:700px;
+	left:350px;
+
+}
+
+h2,h3{
+	
+	font-family:"Broadway";
+    font-size:30px;
+    text-align:center;
+
+}
+
+.articulo{
+	
+	background:#AAAAAA;
+	width:680px;
+	position:relative;
+	top:0px;
+	bottom:700px;
+	left:35px;
+	border-radius:5%;
+}
+
+.articulo p{
+	
+	font-family:"Century Gothic";
+	padding:10px;
+	color: #000;
+	
+}
+
+.articulo img{
+	
+	border-radius:10%;
+	border:3px solid rgb(251, 252, 255);
+	float:left;
+	
+}
+
+.asides{
+
+	
+	width:300px;
+	position:absolute;
+	position:fixed;
+	top:30px;
+	bottom:500px;
+	left:800px;
+
+}
+
+.asidez{
+
+	width:300px;
+	position:absolute;
+	
+	top:30px;
+	bottom:500px;
+	left:800px;
+
+}
+.asides img{
+
+	border-radius:10%;
+	border:3px solid rgb(255, 255, 255);
+	float:right;
+
+}
+.asidez img{
+
+	border-radius:10%;
+	border:3px solid rgb(255, 255, 255);
+	float:right;
+
+}
+
+.asides p{
+	
+	font-family:"Century Gothic";
+	
+}
+
+.asides ol li{
+
+	background:#A1A2A6;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	border-radius:10%;
+}
+
+.asides ol li a{
+	
+	padding:10px 20px;
+	display:inline-block;
+	color:black;
+	text-decoration:none;
+	font-family:"Broadway";
+}
+
+.asides ol li a:hover{
+	
+	background:#000;
+	color:white;
+}
+
+.Logo{
+	
+	border-radius:10%;
+	float:right;
+}
+
+h1{
+	
+	font-weight:bold;
+	line-height:60px;
+	text-shadow: 2px 2px 2px #AFB0B4;
+}
+
+.asides a{
+	
+
+	display:inline-block;
+	color:#2445C6;
+	text-decoration:none;
+	font-family:"Century Gothic";
+}
+
+.asides a:hover{
+	
+
+	
+
+	text-decoration:underline;
+}
+
+.Theme{
+	
+	background:#F6F8F9;
+	width:100px;
+	position:relative;
+	left:600px;
+    border-radius:100%;
+	border:2px solid #2445C6;
+}
+
+li.Compra
+{
+
+	background: rgb(255, 30, 0);
+	text-decoration: underline;
+	font-size: 25px;
+	font-family:"Century Gothic";
+}
+
+li.Venta
+{
+
+	background:rgb(8, 202, 1);
+	text-decoration: underline;
+	font-size: 25px;
+	font-family:"Century Gothic";
+}
+
+.menuCompra
+ {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	background:white;
+	display:inline-block;
+	position:relative;
+	left: 28.7px;
+}
+h2.center{
+	position:relative;
+	left: 300px;
+}
+
+div.deleteArma{
+	position:relative;
+	left: 200px;
+}
+
+.getArmaBtn{
+	background-color: black;
+	position:relative;
+	left: 200px;
+	text-decoration: underline;
+	font-size: 25px;
+	font-family:"Century Gothic";
+	
+}
+
+.getArmaBt{
+	background-color: black;
+	position:relative;
+	text-decoration: underline;
+	color:white;
+	font-family:"Century Gothic";
+	
+}
+
+.llenar{
+	color:black;
+	background-color: gray;
+}
+
+.list{
+	background:#AAAAAA;
+	width:650px;
+	position:relative;
+	top:0px;
+	bottom:700px;
+	left:35px;
+	border-radius:10%;
+	font-family:"Century Gothic";
+	color: #000;
+	
+	
+}
+
+.gigi{
+	
+	background:#AAAAAA;
+	width:650px;
+	position:relative;
+	top:0px;
+	bottom:700px;
+	left:35px;
+	border-radius:10%;
+	font-family:"Century Gothic";
+	color: #000;
+	display: inline-block;
+}
+
+.kkk li{
+	display:inline-block;
+}
+
+.opo{
+
+	color:black;
+}

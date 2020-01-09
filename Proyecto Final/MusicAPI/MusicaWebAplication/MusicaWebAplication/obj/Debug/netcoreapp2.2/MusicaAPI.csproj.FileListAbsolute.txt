@@ -1,0 +1,40 @@
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C#\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.deps.json
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C#\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.runtimeconfig.json
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C#\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.runtimeconfig.dev.json
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C#\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.dll
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C#\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.pdb
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C#\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.csprojAssemblyReference.cache
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C#\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.RazorAssemblyInfo.cache
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C#\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.RazorAssemblyInfo.cs
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C#\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.AssemblyInfoInputs.cache
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C#\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.AssemblyInfo.cs
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C#\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.RazorTargetAssemblyInfo.cache
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C#\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.dll
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C#\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.pdb
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.deps.json
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.runtimeconfig.json
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.runtimeconfig.dev.json
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.dll
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.pdb
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.csprojAssemblyReference.cache
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.RazorAssemblyInfo.cache
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.RazorAssemblyInfo.cs
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.AssemblyInfoInputs.cache
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.AssemblyInfo.cs
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.RazorTargetAssemblyInfo.cache
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.dll
+D:\Universidad\Sexto_Semestre\Tecnologias_Web\C\Proyect281119\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.pdb
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.deps.json
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.runtimeconfig.json
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.runtimeconfig.dev.json
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.dll
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MusicaAPI.pdb
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.csprojAssemblyReference.cache
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.csproj.CoreCompileInputs.cache
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.RazorAssemblyInfo.cache
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.RazorAssemblyInfo.cs
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.AssemblyInfoInputs.cache
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.AssemblyInfo.cs
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.dll
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MusicaAPI.pdb

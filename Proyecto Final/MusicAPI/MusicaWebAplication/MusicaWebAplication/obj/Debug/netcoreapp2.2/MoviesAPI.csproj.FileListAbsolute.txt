@@ -1,0 +1,56 @@
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.deps.json
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.runtimeconfig.json
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.runtimeconfig.dev.json
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.dll
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.pdb
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.csprojAssemblyReference.cache
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.csproj.CoreCompileInputs.cache
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.RazorAssemblyInfo.cache
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.RazorAssemblyInfo.cs
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.AssemblyInfoInputs.cache
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.AssemblyInfo.cs
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.dll
+C:\Users\ANDY\Desktop\Proyecto tecweb def\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.pdb
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.dll
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.pdb
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.deps.json
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.runtimeconfig.json
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.runtimeconfig.dev.json
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.dll
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.pdb
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.csprojAssemblyReference.cache
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.csproj.CoreCompileInputs.cache
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.RazorAssemblyInfo.cache
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.RazorAssemblyInfo.cs
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.AssemblyInfoInputs.cache
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.AssemblyInfo.cs
+C:\Users\ANDY\Desktop\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.deps.json
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.runtimeconfig.json
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.runtimeconfig.dev.json
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.dll
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.pdb
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.RazorAssemblyInfo.cache
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.RazorAssemblyInfo.cs
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.AssemblyInfo.cs
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.dll
+C:\Users\hp\Downloads\Casi final papu\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.pdb
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.deps.json
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.runtimeconfig.json
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.runtimeconfig.dev.json
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.dll
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\bin\Debug\netcoreapp2.2\MoviesAPI.pdb
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.csprojAssemblyReference.cache
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.csproj.CoreCompileInputs.cache
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.RazorAssemblyInfo.cache
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.RazorAssemblyInfo.cs
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.AssemblyInfoInputs.cache
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.AssemblyInfo.cs
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.dll
+C:\Users\ANDY\Documents\Proyecto Final\MusicAPI\MusicaWebAplication\MusicaWebAplication\obj\Debug\netcoreapp2.2\MoviesAPI.pdb

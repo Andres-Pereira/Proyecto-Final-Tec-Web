@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Universidad\\Sexto_Semestre\\Tecnologias_Web\\C#\\Proyect281119\\MusicAPI\\MusicaWebAplication\\MusicaWebAplication\\MusicaWebAplication.csproj": {}
+  },
+  "projects": {
+    "D:\\Universidad\\Sexto_Semestre\\Tecnologias_Web\\C#\\Proyect281119\\MusicAPI\\MusicaWebAplication\\MusicaWebAplication\\MusicaWebAplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Universidad\\Sexto_Semestre\\Tecnologias_Web\\C#\\Proyect281119\\MusicAPI\\MusicaWebAplication\\MusicaWebAplication\\MusicaWebAplication.csproj",
+        "projectName": "MusicaWebAplication",
+        "projectPath": "D:\\Universidad\\Sexto_Semestre\\Tecnologias_Web\\C#\\Proyect281119\\MusicAPI\\MusicaWebAplication\\MusicaWebAplication\\MusicaWebAplication.csproj",
+        "packagesPath": "C:\\Users\\Geraldine Galindo\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\Sexto_Semestre\\Tecnologias_Web\\C#\\Proyect281119\\MusicAPI\\MusicaWebAplication\\MusicaWebAplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Geraldine Galindo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

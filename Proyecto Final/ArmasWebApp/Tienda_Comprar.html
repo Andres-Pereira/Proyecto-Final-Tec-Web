@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BlackRifle:Compra de nuestro catalogo</title>
+    <link rel="stylesheet" href="css/Diseno.css">   
+    <link rel="stylesheet" href="css/font.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+    <header>
+      <div class="logo"> <img class="Logo"src="recursos/icono.png" width="540" alt="Logo" > </div>
+      <nav>
+      <ul class="menu"> 
+        <li> <a href="Inicio.html">Inicio</a> </li> 
+        <li> <a href="Tienda.html">Tienda</a> </li>
+        <li> <a href="Recomendaciones.html">Sobre Nosotros</a> </li>
+      </ul>
+       </nav>
+   </header>
+    <div id="postArma">
+        
+      <form id="newArmaForm">
+      </form>
+    </div>
+
+
+    <div id="getArma">
+      <br/>
+      <br/>
+      <br/>
+      
+      <input class="getArmaBtn"id="getArmaBtn" type="button" value="Nuestros mejores vendedores:">
+      <div class="list"id="ArmaContainer"></div>
+      <div id="ArmaContainer2"></div>
+      <h2>Sus Armas:</h2>
+      <div class="gigi" id="ArmaByDealerContainer"> </div>
+   </div>
+
+   <br><br><br><br><br>
+    <div id="deleteArma" class="deleteArma">
+        <form id="deleteArmaForm">
+            <label for="ArmaToDelete">Modelo:</label>
+            <input class="llenar" type="text" name="ArmaToDelete">
+            <input class="getArmaBt" type="submit" value="COMPRAR">
+        </form>
+        
+    </div>
+<aside class="asides">
+  <div id="ArmasContainer" clas="ArmasContainer">
+    <h3>Buscar Por Calibre:</h3>
+    <input class="getArmaByCalibre" id="getArmaByCalibre" type="button" value="Mostrar Calibres Disponibles">
+    <div class="list" id="ArmasContainer2"></div>
+     
+  </div>
+ <div id="ArmaByCalibreContainer" clas="ArmaByCalibreContainer">
+
+ </div>
+
+</aside>
+        <footer>
+                <div class="foot">
+                <p><img src="recursos/ico.png" width="50" alt="bizq" >  BlackRifle © 2020 | bRifle01@gmail.com | California - USA  <img src="recursos/ico.png" width="50" alt="bder" ></p>
+                </div>
+                </footer>
+    <script src="./script.js"> </script>
+    <script src="./script2.js"> </script>
+</body>
+</html>

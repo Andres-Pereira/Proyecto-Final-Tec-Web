@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BlackRifle:Vende tu arma rapido</title>
+    <link rel="stylesheet" href="css/Diseno.css">   
+    <link rel="stylesheet" href="css/font.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="Style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="recursos/ico.png">
+</head>
+<body>
+    <header>
+      <div class="logo"> <img class="Logo"src="recursos/icono.png" width="540" alt="Logo" > </div>
+      <nav>
+      <ul class="menu"> 
+        <li> <a href="Inicio.html">Inicio</a> </li> 
+        <li> <a href="Tienda.html">Tienda</a> </li>
+        <li> <a href="Recomendaciones.html">Sobre Nosotros</a> </li>
+      </ul>
+       </nav>
+   </header>
+    <div id="postArma">
+        <h2>Vende tu Arma: </h2>
+        <form id="newArmaForm">
+            <label for="newDealer">ID Dealer:</label>
+            <input class="opo" type="text" name="newDealer">
+            <br/>
+            <br/>
+            <label for="newName">Nombre:</label>
+            <input class="opo" type="text" name="newName">
+            <br/>
+            <br/>
+            <label for="newcategory">Categoria:</label>
+            <input class="opo" type="text" name="newcategory">
+            <br/>
+            <br/>
+            <label for="newtype">Tipo:</label>
+            <input class="opo" type="text" name="newtype">
+            <br/>
+            <br/>
+            <label for="newProducer">Fabricante:</label>
+            <input class="opo" type="text" name="newProducer">
+            <br/>
+            <br/>
+            <label for="newYear">Ano:</label>
+            <input class="opo" type="text" name="newYear">
+            <br/>
+            <br/>
+            <input class="getArmaBt"type="submit" value="Publicar">
+        </form>
+    </div>
+
+
+    <div id="searchArma" class="searchArma">
+        <form id="searchArmaForm">
+           
+        </form>
+    </div>
+
+    <div id="deleteArma" class="deleteArma">
+        <form id="deleteArmaForm">
+           
+        </form>
+    </div>
+
+
+    <div id="putArma">
+            <h2>Editar venta: </h2>
+            <form id="updateArmaForm">
+                    <label for="Upid"> Id:</label>
+                    <input class="opo" type="text" name="Upid">
+                    <br/>
+                    <br/>
+                <label for="updateName"> Nombre:</label>
+                <input class="opo" type="text" name="updateName">
+                <br/>
+                <br/>
+                <label for="updatetype">Tipo:</label>
+                <input class="opo" type="text" name="updatetype">
+                <br/>
+                <br/>
+                <label for="updatecategory">Categoria:</label>
+                <input class="opo" type="text" name="updatecategory">
+                <br/>
+                <br/>
+                <label for="updateProducer">Fabricante:</label>
+                <input class="opo" type="text" name="updateProducer">
+                <br/>
+                <br/>
+                <label for="updateYear">Ano:</label>
+                <input class="opo" type="text" name="updateYear">
+                <br/>
+                <br/>
+                <input class="getArmaBt"type="submit" value="Editar">
+            </form>
+        </div>
+        <aside class="asidez">
+                <div id="getArma">
+                    <h2>Reciente:</h2>
+                    <input class="getArmaBt"id="getArmaBtn" type="button" value="Actualizar">
+                    <div id="ArmaContainer"></div>
+                    <div class="gigi" id="ArmaByDealerContainer"></div>
+                    
+                 </div>
+        </aside>
+        
+        <footer>
+                <div class="foot">
+                <p><img src="recursos/ico.png" width="50" alt="bizq" >  BlackRifle © 2020 | bRifle01@gmail.com | California - USA  <img src="recursos/ico.png" width="50" alt="bder" ></p>
+                </div>
+                </footer>
+    <script src="./script.js"> </script>
+</body>
+</html>
